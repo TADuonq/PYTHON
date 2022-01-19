@@ -1,0 +1,11 @@
+STT,Thứ tự được duyệt,Tập O
+0,,S(9)
+1,S,"As(9), Bs(11)"
+2,As,"Ba(9), Ca(11), Da(9)"
+3,Ba,"Da(9), Ca(11), Eb(14)"
+4,Da,"Fd(14), Eb(14), Ca(11)"
+5,Ca,"Fc(12), Eb(14)"
+6,Fc,Gf(14). Eb(14)
+7,Eb,Gf(14)
+8,Gf,Finish
+Đường đi,S -> A -> C -> F -> G,

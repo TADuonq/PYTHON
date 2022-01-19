@@ -1,0 +1,11 @@
+STT,Thứ tự được duyệt,Tập biên O
+0,,S
+1,S,"As, Bs"
+2,As,"Bs, Ca, Da"
+3,Bs,"Ca, Da, Eb, Fb"
+4,Ca,"Da, Eb, Fb, Gc"
+5,Da,"Eb, Fb, Gc, Hd"
+6,Eb,"Fb, Gc, Hd"
+7,Fb,"Gc, Dh, If"
+8,Gc,Đích
+Đường đi,S -> A -> C -> G,
